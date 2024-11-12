@@ -2,8 +2,10 @@
 YOLOv8 deep learning model for real-time object detection in computer vision applications. YOLOv8 is widely used in industries such as robotics, autonomous driving, and video surveillance.
 
 ## Description
-In this demonstration, I will use YOLOv8 to detect the objects in a ".jpg" and ".mp4" files as demonstrated below:
+In this demonstration, I will use YOLOv8 to detect the objects in a ".jpg" and ".avi" files and out put results as demonstrated below:
+![JPEG File Results](examples/example_results_1.jpg)
 
+![AVI File Results](examples/example_results_2.JPG)
 
 
 ## Technologies Used
